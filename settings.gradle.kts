@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "lancador_de_dados"
+rootProject.name = "Dice Roller"
 include(":app")
- 

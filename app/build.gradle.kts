@@ -5,12 +5,12 @@ plugins {
 }
 
 android {
-    namespace = "com.example.lancador_de_dados"
+    namespace = "com.example.diceroller"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.lancador_de_dados"
-        minSdk = 34
+        applicationId = "com.example.diceroller"
+        minSdk = 24
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"

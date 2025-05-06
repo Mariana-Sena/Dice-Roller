@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">lancador_de_dados</string>
-    <string name="lancar">Roll</string>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll">Roll</string>
 </resources>
